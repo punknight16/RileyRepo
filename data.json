@@ -934,3 +934,71 @@ steps:
           *
         FROM
           ${CHEAPEST_SUPPLIER_FOR_PART}
+treeData:
+  nodes:
+    - stepCounter: 2
+      nodes: []
+    - stepCounter: 3
+      nodes: []
+    - stepCounter: 5
+      nodes: []
+    - stepCounter: 6
+      nodes: []
+    - stepCounter: 7
+      nodes: []
+    - stepCounter: 8
+      nodes: []
+    - stepCounter: 9
+      nodes: []
+    - stepCounter: 10
+      nodes: []
+    - stepCounter: 11
+      nodes: []
+    - stepCounter: 12
+      nodes: []
+    - stepCounter: 13
+      nodes: []
+    - stepCounter: 14
+      nodes: []
+    - stepCounter: 15
+      nodes: []
+    - stepCounter: 16
+      nodes: []
+    - stepCounter: 17
+      nodes: []
+    - stepCounter: 20
+      nodes: []
+    - stepCounter: 21
+      nodes: []
+    - stepCounter: 22
+      nodes: []
+    - stepCounter: 23
+      nodes: []
+    - stepCounter: 24
+      nodes: []
+    - stepCounter: 25
+      nodes: []
+    - stepCounter: 26
+      nodes: []
+    - stepCounter: 27
+      nodes: []
+    - stepCounter: 28
+      nodes: []
+    - stepCounter: 29
+      nodes: []
+    - stepCounter: 30
+      nodes: []
+    - stepCounter: 32
+      nodes: []
+    - stepCounter: 33
+      nodes: []
+    - stepCounter: 34
+      nodes: []
+    - stepCounter: 35
+      nodes: []
+    - stepCounter: 36
+      nodes: []
+    - stepCounter: 37
+      nodes: []
+    - stepCounter: 38
+      nodes: []
